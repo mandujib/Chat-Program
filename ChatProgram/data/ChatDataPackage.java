@@ -28,12 +28,11 @@ public class ChatDataPackage implements Serializable{
 	public String getId() {
 		return id;
 	}
-	
 	public String getMessage() {
 		return message;
 	}
-	
 	public int getCode() {
 		return code;
 	}
+
 }
