@@ -9,6 +9,11 @@ import java.net.*;
 public class Client extends Panel implements Runnable{
 
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	
 	private TextField tf = new TextField();
 	private TextArea ta = new TextArea();
 	
